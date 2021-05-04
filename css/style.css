@@ -1,0 +1,129 @@
+.image-box{
+	width: 1400px;
+	height: 800px;
+}
+.image-wrapper{
+	position: relative;
+}
+.image-title{
+	position: absolute;
+	top: 20px;
+	left: 80px;
+	color: white;
+	font-family: 'Roboto';
+}
+.title{
+	position: absolute;
+	top: 20px;
+	left: 700px;
+	color: white;
+	text-decoration: none;
+	font-family: 'Roboto';
+}
+.Restourants{
+	position: absolute;
+	top: 20px;
+	left: 780px;
+	color: white;
+	text-decoration: none;
+	font-family: 'Roboto';
+}
+.Aboutus{
+	position: absolute;
+	top: 20px;
+	left: 900px;
+	color: white;
+	text-decoration: none;
+	font-family: 'Roboto';
+}
+.Contacts{
+	position: absolute;
+	top: 20px;
+	left: 1000px;
+	color: white;
+	text-decoration: none;
+	font-family: 'Roboto';
+}
+.line2{
+	position: absolute;
+	top: 400px;
+	left: 1000px;
+	width: 70px;
+}
+.line{
+	position: absolute;
+	top: 400px;
+	left: 1070px;
+	width: 70px;
+}
+.text{
+	width: 250px;
+	position: absolute;
+	top: 250px;
+	left: 80px;
+	color: white;
+	font-family: 'Roboto';
+}
+.sticky{
+	position: absolute;
+	position: sticky;
+	color: white;
+	font-family: 'Roboto';
+}
+.box{
+	width: 250px;
+}
+.box{
+	display: inline-block;
+	margin-left: 100px;
+	margin-right: 200px;
+}
+.Read{
+	width: 100px;
+	border:solid blue 10px;
+	background-color: blue;
+}
+.more{
+	color: black;
+}
+.box2{
+	display: inline-block;
+	width: 550px;
+	background-color: white;
+	margin-top: 50px;
+	margin-right: 100px
+}
+.last{
+	width: 500px;
+	height: 200px;
+}
+.facebook{
+	width: 60px;
+	margin-right: 50px;
+	margin-top: 60px;
+}
+.twitter{
+	width: 60px;
+	margin-right: 50px;
+	margin-top: 60px;
+}
+.google{
+	width: 60px;
+	margin-right: 50px;
+	margin-top: 60px;
+}
+.pirveli{
+	color: white;
+}
+.footer{
+	background-color: black;
+}
+.h1{
+	font-family: 'Roboto';
+}
+.paragraph{
+	font-family: 'Roboto';
+}
+
+
+
